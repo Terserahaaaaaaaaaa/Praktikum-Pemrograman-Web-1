@@ -35,7 +35,8 @@
        1. text color digunakan untuk mewarnai text yang ada dihtml
        2. background color digunakan untuk mewarnai seluruh background diweb tersebut
 1. ![colorcss](https://github.com/Terserahaaaaaaaaaa/Praktikum-Pemrograman-Web-1/assets/152271468/f42c75f2-0544-4ae4-af50-ddcc42d701a5)
-2. ![colorcss](https://github.com/Terserahaaaaaaaaaa/Praktikum-Pemrograman-Web-1/assets/152271468/a2912852-2494-4fda-9902-73face989dd2)
+2. ![backgroundcolor](https://github.com/Terserahaaaaaaaaaa/Praktikum-Pemrograman-Web-1/assets/152271468/bf8a6dd3-8c1b-48b1-bce0-7df487089819)
+
 
     b. Text Align CSS
             Properti text-align digunakan untuk mengatur perataan horizontal teks. Sebuah teks dapat disejajarkan ke kiri atau ke kanan, di tengah, atau diratakan.
