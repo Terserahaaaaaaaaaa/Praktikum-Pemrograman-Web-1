@@ -75,8 +75,7 @@
     c. Alert
             Salah satu fungsi asli JavaScript yang berguna adalah fungsi alert() . Fungsi ini akan menampilkan teks dalam kotak dialog yang muncul di layar.
     ![alert](https://github.com/Terserahaaaaaaaaaa/Praktikum-Pemrograman-Web-1/assets/152271468/17fc6a18-ddab-453c-83ad-9ecaf77fc075)
-
-
+ 
          
 
     
